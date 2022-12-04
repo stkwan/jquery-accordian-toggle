@@ -1,0 +1,2 @@
+This program demonstrates how to implement an animation using jQuery's `slideToggle` function. We can set a key to trigger
+the animation. When we set a new key, we first unbind the event handler and re-bind it to ensure that previous keys will not trigger the event handler.

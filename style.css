@@ -1,0 +1,17 @@
+#char {
+  color: green;
+  width: 1em;
+  font-size: 30px;
+}
+
+form {
+  padding: 20px;
+}
+
+h1, figcaption {
+  color: green;
+}
+
+figcaption {
+  font-weight: bold;
+}
